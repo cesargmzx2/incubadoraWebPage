@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sexto CIM 2018</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nav_calendar" />
+    <string name="nav_programa">Programa</string>
+    <string name="nav_ponentes">Ponentes</string>
+    <string name="nav_registro">Registro</string>
+</resources>
